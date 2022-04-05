@@ -1,6 +1,3 @@
-# productos
-Prueba de Andina Seguridad del valle
-
 Versión Laravel 8.
 
 Utilizar Xampp con php 7.4 o una versión mayor.
@@ -33,6 +30,5 @@ Plugin de textarea se utiliza ckeditor.
 Se utiliza plantilla phanton de HTML5up.net
 
 Se utiliza relación polimorfica para almacenar rutas de imagenes.
-
 
 
